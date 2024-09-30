@@ -10,6 +10,7 @@ Confusion Matrix Performance of different deep CNN models (a) InceptionV3, (b) V
 ![image](https://github.com/user-attachments/assets/22635f29-3958-4838-b7a4-0048226275d1)
 
 Table 1 The performance measure in this experiment
+
 ![image](https://github.com/user-attachments/assets/1f0b0a3c-2f87-47f5-93c7-52cb9b24e11b)
 
 DenseNet-201 emerges as the most effective model overall, consistently delivering superior performance across various disease categories. 
