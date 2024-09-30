@@ -2,7 +2,7 @@ Project Name: Detection of Rice Leaf Diseases Using Transfer Learning Architectu
 
 The training, validation, and testing datasets used in this project were obtained from www.kaggle.com and the UCI repository picture data. The dataset comprises 2500 training images, 600 validation images, and 600 testing images and is split into five classes using both data types.
 
-![image](https://github.com/user-attachments/assets/97ccdb93-02aa-4d86-9816-0c9b3cec016a)
+                                        ![image](https://github.com/user-attachments/assets/97ccdb93-02aa-4d86-9816-0c9b3cec016a)
 
 The performance of four distinct DL models- InceptionV3, VGG-16, VGG-19, and DenseNet201 was assessed for rice leaf diseases. Training loss against validation loss and training accuracy against validation accuracy of different deep CNN models (a) InceptionV3, (b) VGG-16, (c) VGG-19, and (d) DenseNet-201.
 
